@@ -1,10 +1,14 @@
 # Currency App
-Practice using React to create an app
+Practice using React and API to create an currency app.
 
-### Source
+This app is a simple currency app that returns real-time exchange rate data.
+
+There is a limit of 250 monthly requests.
+
+## Source
 - https://exchangeratesapi.io/
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
